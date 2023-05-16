@@ -6,7 +6,7 @@
 'Potato___Late_blight', and 'Potato___healthy'. Early and late blights are common diseases that cause significant crop 
 yield and quality losses.**
 	
-Clone my Github repository on your local system :-
+Clone my Github repository on your local system :- https://github.com/purvapd/Potato_Disease_Detection--Deep-Learning
 
 ### To create a deep learning model, follow these steps:
 
