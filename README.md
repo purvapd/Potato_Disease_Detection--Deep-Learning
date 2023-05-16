@@ -28,15 +28,15 @@ potato_disease_detection\saved_models\1
 
 2. Install the necessary packages by running the command 
 	
-		**pip install -r requirements.txt**
+		pip install -r requirements.txt
 
 3. Open Visual Studio Code and make sure the terminal path is set to "potato_disease_detection\api".
 
 4. Install the uvicorn package and Run the Fast API by running the command 
 
-		**pip install uvicorn
+		pip install uvicorn
 
-		uvicorn main:app --reload**
+		uvicorn main:app --reload
 
 5. To check if the API is working or not, you can use Postman by installing it from the link provided
 (https://learning.postman.com/docs/getting-started/installation-and-updates/).
@@ -71,11 +71,11 @@ https://nodejs.org/en/download
 
 		Install the packages 
 
-		**pip install npm
+		pip install npm
 
 		npm install --from-lock-json
 
-		npm audit fix**
+		npm audit fix
 
 3. Make sure FAST API is running. Now to run the website 
 npm run start
